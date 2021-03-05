@@ -10,13 +10,16 @@ This code quiz includes multiple choice questions on a landing page User Interfa
 
 Screenshots:
 
-<img width="888" alt="desktop-devices" src="https://user-images.githubusercontent.com/77028806/109465185-a58baf00-7a1c-11eb-8ae5-eecb4515323c.png">
+<img width="1088" alt="large-screen-devices" src="https://user-images.githubusercontent.com/77028806/110163789-61463900-7da5-11eb-8f42-0dbf3ef4727e.png">
 
-<img width="501" alt="mobil-devices" src="https://user-images.githubusercontent.com/77028806/109465241-b9371580-7a1c-11eb-8efd-a234142e0479.png">
+<img width="487" alt="small-screen-devices" src="https://user-images.githubusercontent.com/77028806/110163821-6e632800-7da5-11eb-8608-651861fa21bc.png">
 
-<img width="1088" alt="correct-green" src="https://user-images.githubusercontent.com/77028806/109465324-da980180-7a1c-11eb-916a-d6d67fb71b4a.png">
+<img width="943" alt="correct-answer-indicator" src="https://user-images.githubusercontent.com/77028806/110163840-74f19f80-7da5-11eb-839b-be9ed6510624.png">
 
-<img width="1089" alt="wrong-red" src="https://user-images.githubusercontent.com/77028806/109465371-f00d2b80-7a1c-11eb-9b79-0fc20f146960.png">
+<img width="919" alt="incorrect-answer-indicator" src="https://user-images.githubusercontent.com/77028806/110163887-7fac3480-7da5-11eb-90b3-f7d709294b60.png">
+
+<img width="1206" alt="Initials-with-high-score" src="https://user-images.githubusercontent.com/77028806/110163922-876bd900-7da5-11eb-97fd-fe30e092b56b.png">
+
 
 
 
