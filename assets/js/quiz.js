@@ -118,6 +118,8 @@ function answerIsCorrect() {
 
 // answer is Wrong
 function incorrectAnswer() {
+  total_seconds = total_seconds-10
+  document.getElementById("quiz-time-left") .innerHTML ='<p> Time Left: ' + total_seconds + ' seconds </p>';
   document.getElementById(runningQuestion).classList.add('incorrect');
 }
 
